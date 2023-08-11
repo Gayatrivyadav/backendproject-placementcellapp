@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/css/addstud.css" />
+<link rel="stylesheet" href="/css/add_Student.css" />
 
 <% if(locals.user) { %>
 
@@ -135,4 +135,4 @@
 <% } %>
 
 
-<script src="/javascript/addstudent.js"></script>
+<script src="/js/add_student.js"></script>
